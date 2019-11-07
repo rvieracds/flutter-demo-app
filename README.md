@@ -1,4 +1,4 @@
-# my_first_app
+# Futter Demo App
 
 A new Flutter project.
 
